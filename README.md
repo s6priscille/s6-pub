@@ -1,5 +1,4 @@
 # GIT
-# GIT
 
 ## **Important Syntax**
 
