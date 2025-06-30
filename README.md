@@ -19,3 +19,10 @@ git commit -m " " # gives a title to any change for better tracking
 git branch -a # list all branches
 git pull # update repository
 git checkout name # switch branch
+
+### Attendance Table
+
+| Date       | Attendees |
+|------------|-----------|
+| 01/01/2025 | 100       |
+| 05/01/2025 | 175       |
